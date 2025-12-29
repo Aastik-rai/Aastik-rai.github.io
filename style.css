@@ -308,12 +308,8 @@ svg {
     height: auto;
 
 }
-@media (max-width: 1200px) {
-    .solitaire {
-        top: 26vh;
-        right: 8vw;
-    }
-}
+
+
 .line {
     position: absolute;
     top: 60vh;
@@ -360,7 +356,7 @@ img, video {
 
 
 
-}
+
 .record {
     position: relative;
     width: 100%;
